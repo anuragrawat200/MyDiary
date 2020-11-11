@@ -1,5 +1,6 @@
 # MyDiary
-• A modified text editor with various features
+
+• A modified text editor made by using Tkinter Python with various features
 • Change text font , size , color theme for background
 • Characters and word count and also added
 shortcut keys functionalities
